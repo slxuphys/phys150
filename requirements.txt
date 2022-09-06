@@ -1,0 +1,4 @@
+jupyter
+jupyter-contrib-nbextensions
+jupyter-nbextensions_configurator
+rise
