@@ -7,6 +7,7 @@ dependencies:
   - numpy
   - matplotlib
   - ffmpeg
+  - pip
   - pip:
     - jupyter-contrib-nbextensions
     - jupyter-nbextensions_configurator
