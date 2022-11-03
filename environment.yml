@@ -3,8 +3,8 @@ channels:
   - conda-forge
 dependencies:
 #  - jupyter
-#  - jupyter-contrib-nbextensions
-#  - jupyter-nbextensions_configurator
+  - jupyter-contrib-nbextensions
+  - jupyter-nbextensions_configurator
   - rise
   - numpy
   - matplotlib
