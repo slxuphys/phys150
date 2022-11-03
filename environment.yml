@@ -9,6 +9,4 @@ dependencies:
   - ffmpeg
   - pip:
     - jupyter-contrib-nbextensions
-    - jupyter-nbextensions_configurator
- 
-	
+    - jupyter-nbextensions_configurator	
