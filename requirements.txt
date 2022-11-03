@@ -4,3 +4,4 @@ jupyter-nbextensions_configurator
 rise
 numpy
 matplotlib
+ffmpeg
