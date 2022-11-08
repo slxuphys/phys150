@@ -1,10 +1,12 @@
 # pay attention to indentation
+import matplotlib.pyplot as plt
+import numpy as np
 
 class Ball:
     def __init__(self,x=0,v=0,a=0,t=0):
-        self.x=x
-        self.v=v
-        self.a=a
+        self.x=np.array(x)
+        self.v=np.array(v)
+        self.a=np.array(a)
         self.t=t
         self.time_list=[]
         self.pos_list=[]
@@ -19,7 +21,6 @@ class Ball:
         self.time_list=[]
         self.pos_list=[]
     def plot(self): #draw the path
-        import matplotlib.pyplot as plt
         plt.plot(self.time_list,self.pos_list)
         plt.xlabel('time')
         plt.ylabel('position')
