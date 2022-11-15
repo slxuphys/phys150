@@ -5,6 +5,7 @@ dependencies:
 #  - jupyter
   - rise
   - numpy
+  - scipy
   - matplotlib
   - ffmpeg
   - pip
