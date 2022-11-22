@@ -6,6 +6,7 @@ dependencies:
   - rise
   - numpy
   - scipy
+  - sympy
   - matplotlib
   - ffmpeg
   - pip
