@@ -23,3 +23,16 @@ Try them out!
 - [lecture 22&23: planetary motion](https://nbviewer.org/github/slxuphys/phys150/blob/main/lecture/lecture%2021%20Planetary%20Motion%20and%20three%20body%20problem.ipynb)
 - [lecture 24: optimization and equation solving](https://nbviewer.org/github/slxuphys/phys150/blob/main/lecture/lecture%2023%20optimization%20and%20solving%20equation.ipynb)
 - [lecture 25: simple iteration and complex behavior](https://nbviewer.org/github/slxuphys/phys150/blob/main/lecture/lecture%2024%20simple%20iteration%20and%20complex%20phenomena.ipynb)
+
+
+## Gallary
+
+After taking the course, you can aslo make these cool animation as well!
+
+![fern](gallary/fern.gif)
+![logistic](gallary/logistic_map.gif)
+
+![projectile race](gallary/projectile_race.gif)
+![2 body](gallary/two_body.gif)
+![3_body](gallary/three_body.gif)
+![pool_table](gallary/pool_table.gif)
