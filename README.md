@@ -27,7 +27,7 @@ Try them out!
 
 ## Gallary
 
-After taking the course, you can aslo make these cool animation as well!
+After taking the course, you can aslo make these cool animation as well and learn the physics behind.
 
 ![fern](gallary/fern.gif)
 ![logistic](gallary/logistic_map.gif)
