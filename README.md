@@ -27,10 +27,11 @@ Try them out!
 
 ## Gallary
 
-After taking the course, you can aslo make these cool animation as well and learn the physics behind.
+After taking the course, you can aslo make these cool animations as well and learn the physics behind.
 
 ![fern](gallary/fern.gif)
 ![logistic](gallary/logistic_map.gif)
+![fractal](gallary/fractal.gif)
 
 ![projectile race](gallary/projectile_race.gif)
 ![2 body](gallary/two_body.gif)
